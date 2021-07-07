@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrSalim96
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning arcitecture
+- 🌱 I’m currently learning architecture
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mstr.sns@gmail.com
 
